@@ -1,0 +1,6 @@
+{
+  "name": "Lab Equipment Fault Reporter",
+  "description": "University laboratory equipment fault reporting, DFA/Regex identifier validation, automatic classification, priority dispatch routing, and analytics platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
